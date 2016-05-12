@@ -1,4 +1,4 @@
-'use strict';
+'use strict'
 
 function Thermostat(default_temp = 20) {
   this.DEFAULT_TEMPERATURE = default_temp
